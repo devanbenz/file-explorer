@@ -1,0 +1,3 @@
+C:/Users/Devan/Documents/Programming/C++/file-explorer/cmake-build-debug/CMakeFiles/file_explorer.dir
+C:/Users/Devan/Documents/Programming/C++/file-explorer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Devan/Documents/Programming/C++/file-explorer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

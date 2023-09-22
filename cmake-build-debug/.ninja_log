@@ -1,0 +1,6 @@
+# ninja log v5
+0	1243	7167105523549640	CMakeFiles/file_explorer.dir/main.cpp.obj	b8ae1c6c2f24279a
+1078	1182	7170487798318001	file_explorer.exe	bfc6e4897e2f6dd9
+7	434	7168722437173127	CMakeFiles/file_explorer.dir/src/user-interface.cpp.obj	f2369c7a42f5ff8f
+0	1416	7170478826693804	CMakeFiles/file_explorer.dir/src/main.cpp.obj	c04af16e866b095e
+0	1078	7170487797488000	CMakeFiles/file_explorer.dir/src/file-operations.cpp.obj	e69bddbb0b0ec633
